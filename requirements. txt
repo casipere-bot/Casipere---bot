@@ -1,0 +1,11 @@
+
+
+*1. En haut, là où c'est écrit "Name your file..."*
+Appuie dessus et écris exactement ça :
+requirements.txt
+*2. Après, appuie en bas, là où c'est écrit "Enter file contents here"*
+Et tu copies ça :
+python-telegram-bot==20.7
+C'est tout, juste cette ligne.
+
+Fais ça et envoie-moi une photo.
