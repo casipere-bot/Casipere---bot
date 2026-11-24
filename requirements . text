@@ -1,0 +1,20 @@
+
+
+Tu vois en bas ? *main.py* est là ! Tu as réussi !
+
+Maintenant, 2 choses à faire :
+
+*1. Créer le fichier `requirements.txt`*
+
+C'est comme http://main.py, même façon :
+- Appuie sur les *3 petits points ...* à côté du bouton vert Code
+- *Add file* > *Create new file*
+- Nom : `requirements.txt`
+- Colle ça dedans :
+python-telegram-bot==21.4
+- *Commit changes*
+
+*2. Après ça, on va créer le TOKEN sur Telegram*
+
+Tu fais le `requirements.txt` d'abord ?
+Dis-moi quand c'est fait.
