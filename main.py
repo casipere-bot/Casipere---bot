@@ -24,9 +24,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-*Pour copier :*
-Reste appuyé longtemps dessus -> *Copier*
-
-Après va sur GitHub, reste appuyé dans la case blanche -> *Coller*
-
-Tu as réussi à copier ?
